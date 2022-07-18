@@ -85,5 +85,8 @@ Where the template ID is:
 - Incidents: 'E3BEEF0B-B3B5-0698-ABB2-6A8E910FF1CE'
 - Patient care coordination: '0134C13D-E537-065B-97D1-6BC46D0FF1CE'
 - Loans: '7C920B56-2D7A-02DA-94B2-57B46E0FF1CE'
+- Gift Ideas: '008f8143-9644-0238-b4b5-c03e4f0ff1ce'
+- Recipe Tracker: 'a1755e7d-8e3a-4141-89fc-6c77eb0ff1ce'
+- Expense Tracker: '96D6DBE5-D7C3-430A-867A-0B72EB4065AB'
 
 To re-enable a built-in template, use the parameter `EnableModernListTemplateIds`.
